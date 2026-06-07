@@ -1,0 +1,6 @@
+{
+  "name": "Blogger Clone",
+  "description": "A comprehensive Blogger dashboard clone with Google AdSense mock earnings, live analytics, AI-powered writing assistance, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
